@@ -1,0 +1,10 @@
+France 1946 DSD mod validation
+================================
+JSON parsed: YES
+Scenes: 20
+Resolved option targets: YES
+JavaScript bodies compiled: YES (17 checked)
+Seat total: 627
+Vote-share total: 100.00%
+Coalition aftermath remains on election page: YES
+Overall: PASS
